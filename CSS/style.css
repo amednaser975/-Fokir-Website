@@ -72,7 +72,7 @@
 /* Start Header Slider */
 .header-slider
 {
-    background-image: url("img/slider/slider-01.jpg");
+    background-image: url('../img/slider/slider-01.jpg');
     background-position: center center;
     background-size: 100%;
     overflow: auto;
